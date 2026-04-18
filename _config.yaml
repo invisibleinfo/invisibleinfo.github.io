@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: invisibleinfo
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Invisible Information Lab
+subtitle: Amsterdam School of Communication Research, University of Amsterdam
+description: The Invisible Information Lab aims to enable fairer access to human knowledge by understanding, measuring, and surfacing invisible information on digital platforms.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@invisibleinfo.com
+  email: s.khanna@uva.nl
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: if4Y2B0AAAAJ
   github: invisibleinfo
-  twitter: invisibleinfo
-  youtube: invisibleinfo
+  # twitter: invisibleinfo
+  # youtube: invisibleinfo
 
 ### jekyll settings
 
