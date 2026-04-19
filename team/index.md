@@ -5,31 +5,73 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+## Faculty
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'faculty'" %}
 
 {% include section.html %}
 
-{% capture content %}
+## Postdocs
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
-{% endcapture %}
+{% include section.html %}
 
-{% include grid.html style="square" content=content %}
+## Students
+
+{% include list.html data="members" component="portrait" filter="role == 'master'" %}
+
+{% include section.html %}
+
+## Collaborators
+
+{%
+  include button.html
+  link="https://illc.uva.nl/"
+  text="Institute for Logic Language and Computation"
+  icon="fa-solid fa-arrow-right"
+%}
+
+{%
+  include button.html
+  link="https://www.pmb.ox.ac.uk/"
+  text="Pembroke College, University of Oxford"
+  icon="fa-solid fa-arrow-right"
+%}
+
+{%
+  include button.html
+  link="https://pkp.sfu.ca/"
+  text="Public Knowledge Project"
+  icon="fa-solid fa-arrow-right"
+%}
+
+{%
+  include button.html
+  link="https://respondcrisistranslation.org/"
+  text="Respond Crisis Translation"
+  icon="fa-solid fa-arrow-right"
+%}
+
+{%
+  include button.html
+  link="https://meta.wikimedia.org/wiki/Research:Lost_Without_Translation:_Estimation_and_Implications_of_Invisible_Languages_on_Wikipedia"
+  text="Wikimedia Foundation"
+  icon="fa-solid fa-arrow-right"
+%}
+
+{%
+  include button.html
+  link="https://www.deusto.es/en/home"
+  text="University of Deusto"
+  icon="fa-solid fa-arrow-right"
+%}
+
+{%
+  include button.html
+  link="https://www.hf.uio.no/imk/english/"
+  text="University of Oslo"
+  icon="fa-solid fa-arrow-right"
+%}
+

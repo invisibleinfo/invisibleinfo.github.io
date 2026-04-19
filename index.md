@@ -1,6 +1,4 @@
 ---
 ---
 
-# invisibleinfo's Website
-
-An engaging 1-3 sentence description of your lab.
+The Invisible Information Lab is a research group at the University of Amsterdam dedicated to studying the diversity and limits of human knowledge in an increasingly digitized world. We leverage machine learning and information retrieval to understand how information is created, shared, and consumed online, and how this shapes our collective understanding of the world. Our research spans a wide range of topics, including misinformation, health communication, media representation, and human-computer interaction. We are committed to advancing scientific knowledge and promoting a more informed and equitable society through our research and public engagement efforts.

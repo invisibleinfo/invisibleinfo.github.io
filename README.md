@@ -3,8 +3,6 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # invisibleinfo's Website
+  # lab website
 
-  Visit **[invisibleinfo.github.io](https://invisibleinfo.github.io)** 🚀
-
-  _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+  Visit [here](https://invisibleinfo.github.io) for the latest version of our website.

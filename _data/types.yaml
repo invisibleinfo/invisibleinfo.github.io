@@ -6,6 +6,10 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+faculty:
+  icon: fa-solid fa-chalkboard-teacher
+  description: Faculty
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -13,6 +17,10 @@ postdoc:
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+
+master:
+  icon: fa-solid fa-user-graduate
+  description: Research Master Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
