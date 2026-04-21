@@ -26,47 +26,59 @@ nav:
 
 ## Collaborators
 
+{% capture collab_logos %}
 {%
-  include button.html
+  include figure.html
+  image="images/collab-illc.png"
   link="https://illc.uva.nl/"
-  text="Institute for Logic Language and Computation"
-  icon="fa-solid fa-arrow-right"
+  caption="Institute for Logic, Language and Computation"
+  height="80px"
 %}
-
 {%
-  include button.html
+  include figure.html
+  image="images/collab-pembroke.png"
   link="https://www.pmb.ox.ac.uk/"
-  text="Pembroke College, University of Oxford"
-  icon="fa-solid fa-arrow-right"
+  caption="Pembroke College, University of Oxford"
+  height="80px"
 %}
-
 {%
-  include button.html
+  include figure.html
+  image="images/collab-pkp.png"
   link="https://pkp.sfu.ca/"
-  text="Public Knowledge Project"
-  icon="fa-solid fa-arrow-right"
+  caption="Public Knowledge Project"
+  height="80px"
 %}
-
 {%
-  include button.html
+  include figure.html
+  image="images/collab-respond.png"
   link="https://respondcrisistranslation.org/"
-  text="Respond Crisis Translation"
-  icon="fa-solid fa-arrow-right"
+  caption="Respond Crisis Translation"
+  height="80px"
 %}
-
 {%
-  include button.html
+  include figure.html
+  image="images/collab-wikimedia.png"
   link="https://meta.wikimedia.org/wiki/Research:Lost_Without_Translation:_Estimation_and_Implications_of_Invisible_Languages_on_Wikipedia"
-  text="Wikimedia Foundation"
-  icon="fa-solid fa-arrow-right"
+  caption="Wikimedia Foundation"
+  height="80px"
 %}
-
 {%
-  include button.html
+  include figure.html
+  image="images/collab-deusto.png"
   link="https://www.deusto.es/en/home"
-  text="University of Deusto"
-  icon="fa-solid fa-arrow-right"
+  caption="University of Deusto"
+  height="80px"
 %}
+{%
+  include figure.html
+  image="images/collab-oslo.png"
+  link="https://www.hf.uio.no/imk/english/"
+  caption="University of Oslo"
+  height="80px"
+%}
+{% endcapture %}
+
+{% include grid.html content=collab_logos %}
 
 {%
   include button.html
