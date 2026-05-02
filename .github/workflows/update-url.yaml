@@ -26,6 +26,8 @@ jobs:
       - name: Get Pages url
         id: pages
         uses: actions/configure-pages@v4
+        with:
+          enablement: false
 
       - name: Checkout branch contents
         uses: actions/checkout@v4
