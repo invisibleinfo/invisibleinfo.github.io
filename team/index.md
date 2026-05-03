@@ -42,6 +42,7 @@ nav:
   caption="Institute for Logic, Language and Computation"
   height="80px"
 %}
+{% comment %}
 {%
   include figure.html
   image="images/collab-pembroke.png"
@@ -49,6 +50,7 @@ nav:
   caption="Pembroke College, University of Oxford"
   height="80px"
 %}
+{% endcomment %}
 {%
   include figure.html
   image="images/collab-pkp.png"
@@ -87,11 +89,4 @@ nav:
 {% endcapture %}
 
 {% include grid.html content=collab_logos %}
-
-{%
-  include button.html
-  link="https://www.hf.uio.no/imk/english/"
-  text="University of Oslo"
-  icon="fa-solid fa-arrow-right"
-%}
 
