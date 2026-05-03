@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The technological revolution of the Internet has digitised the social, economic, political, and cultural activities of billions of humans. While researchers have paid due attention to concerns of misinformation and bias, these obscure a much less researched — though equally challenging — problem: that of rising *invisible information*. The Invisible Information Lab aims to dynamically quantify invisible information, and to actively make invisible knowledge visible.
+We study what is missing from the digital information ecosystem across languages, science, culture, and conflict. Our projects map and quantify invisible information in multiple forms: underrepresented languages on the web, overlooked academic scholarship, marginalized cinematic and literary works, underreported conflicts, and biases in visual media and human perception.
 
 {% include tags.html tags="languages, NLP, AI, academia, culture" %}
 

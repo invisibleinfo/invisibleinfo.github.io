@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
 
-Open-source software and tools built by the lab.
+We build open-source tools for computational research on information, language, and perception. Our software spans geospatial population analysis, LLM-powered survey experiments, image-based perception studies, and facial feature measurement.
 
 {% include section.html %}
 
