@@ -1,7 +1,7 @@
 - title: surveychat
   image: images/surveychat.gif
   link: https://surveychat.github.io
-  description: Open-source web app for embedding LLM-based chatbots directly in surveys and randomized experiments. Supports Qualtrics integration and JSON transcript export. No coding beyond editing a config file required.
+  description: Open-source web application for embedding large language model (LLM) based chatbots directly in surveys and randomized experiments. Supports Qualtrics integration and JSON transcript export.
   repo: surveychat/surveychat
   tags:
     - generative AI
@@ -11,7 +11,7 @@
 - title: pictopercept
   image: images/pictopercept.gif
   link: https://pictopercept.ai
-  description: Web platform for running image-based perception experiments at scale. Designed for researchers studying visual communication, media effects, and human judgment of AI-generated images.
+  description: Web application for running image-based forced-choice perception experiments at scale. Designed for researchers studying visual communication, media effects, and human judgment of visual information.
   repo: saurabh-khanna/pictopercept
   tags:
     - computer vision
@@ -29,7 +29,7 @@
 - title: facemeasure
   image: images/facemeasure.gif
   link: https://facemeasure.com
-  description: Python tool for measuring facial features and expressions in images at scale. Built for computational research on visual representation and perception in media.
+  description: Open-source tool for measuring facial landmarks, action units, and expressions in images at scale. Designed for researchers in computer vision, media psychology, and social science.
   repo: saurabh-khanna/facemeasure
   tags:
     - computer vision

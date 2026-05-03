@@ -1,44 +1,49 @@
 - title: Invisible Languages
   image: images/invisible-languages.jpg
   link: https://invisible.info/languages
-  description: Measure, explain, and reduce the _invisibility_ of human language by comparing grassroots vitality and digital representation across 7600+ documented languages.
+  description: Measure, explain, and reduce the invisibility of human language by comparing grassroots vitality and digital representation across 7600+ documented languages.
   tags:
-    - languages
     - NLP
-    - AI
+    - linguistics
+    - education
 
-- title: Invisible Research
-  image: images/invisible-research.jpg
-  link: https://invisible.info/research
-  description: Scientometric analyses to reveal globally overlooked academic scholarship marginalized by language barriers, publication biases, and institutional prestige hierarchies.
+- title: Invisible Academia
+  image: images/invisible-academia.jpg
+  link: https://invisible.info/academia
+  description: Scientometric analyses to reveal globally overlooked open academic scholarship marginalized by language barriers, publication biases, and institutional prestige hierarchies.
   tags:
-    - academia
-    - NLP
+    - scientometrics
+    - network analysis
 
 - title: Invisible Perceptions
   image: images/invisible-perceptions.jpg
   link: https://pictopercept.ai
-  description: Investigates and quantifies the invisibility of human perceptions and judgments, revealing biases in visual communication and media representation.
+  description: We have designed Pictopercept as an open-source tool to investigate the invisibility of human perceptions and judgments, revealing biases propagated through visual media.
   tags:
-    - AI
+    - computer vision
+    - media psychology
 
 - title: Invisible Conflicts
   image: images/invisible-conflicts.jpg
   link: https://invisible.info/conflicts
-  description: Maps and analyzes under-reported armed conflicts and humanitarian crises worldwide, revealing patterns of media neglect and geopolitical bias in global awareness.
+  description: Analyzes under-reported armed conflicts and humanitarian crises worldwide, revealing patterns of media neglect and geopolitical bias in global awareness.
   tags:
-    - geopolitics
+    - geospatial analysis
+    - NLP
+    - conflict studies
 
 - title: Invisible Books
   image: images/background.jpg
   link: https://invisible.info/books
-  description: Illuminates literary gems obscured by mainstream publishing and digital ranking systems, spotlighting authors and works marginalized by linguistic barriers, geographic isolation, or cultural factors.
+  description: Finding literary gems obscured by mainstream publishing and digital ranking systems, spotlighting authors and works marginalized by linguistic barriers, geographic isolation, or cultural factors.
   tags:
-    - culture
+    - bibliometrics
+    - literary studies
 
 - title: Invisible Films
   image: images/invisible-films.jpg
   link: https://invisible.info/films
-  description: Addresses systemic obscurity faced by cinematic works from under-represented regions, languages, and communities hidden beneath algorithm-driven streaming curation.
+  description: Addresses systemic obscurity faced by cinematic works from under-represented regions, languages, and communities hidden beyond algorithmically curated content streams.
   tags:
-    - culture
+    - network analysis
+    - film studies
