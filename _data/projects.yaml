@@ -22,6 +22,13 @@
   tags:
     - AI
 
+- title: Invisible Conflicts
+  image: images/invisible-cpnflicts.jpg
+  link: https://invisible.info/conflicts
+  description: Maps and analyzes under-reported armed conflicts and humanitarian crises worldwide, revealing patterns of media neglect and geopolitical bias in global awareness.
+  tags:
+    - geopolitics
+
 - title: Invisible Books
   image: images/background.jpg
   link: https://invisible.info/books
@@ -35,10 +42,3 @@
   description: Addresses systemic obscurity faced by cinematic works from under-represented regions, languages, and communities hidden beneath algorithm-driven streaming curation.
   tags:
     - culture
-
-- title: Invisible Conflicts
-  image: images/sudan.jpg
-  link: https://invisible.info/conflicts
-  description: Maps and analyzes under-reported armed conflicts and humanitarian crises worldwide, revealing patterns of media neglect and geopolitical bias in global awareness.
-  tags:
-    - geopolitics
