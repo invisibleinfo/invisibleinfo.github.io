@@ -15,12 +15,6 @@ The technological revolution of the Internet has digitised the social, economic,
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+{% include list.html component="card" data="projects" style="large" %}
+</div>

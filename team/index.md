@@ -7,8 +7,16 @@ nav:
 
 ## Faculty
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role == 'faculty'" %}
+{% include portrait.html lookup="saurabh-khanna" %}
+{% include portrait.html lookup="olga-eisele" %}
+{% include portrait.html lookup="chei-billedo" %}
+{% include portrait.html lookup="irene-van-driel" %}
+{% include portrait.html lookup="sindy-sumter" %}
+{% include portrait.html lookup="lauren-taylor" %}
+{% include portrait.html lookup="marina-tulin" %}
+{% include portrait.html lookup="sandra-jacobs" %}
+{% include portrait.html lookup="britta-brugman" %}
+{% include portrait.html lookup="corine-meppelink" %}
 
 {% include section.html %}
 

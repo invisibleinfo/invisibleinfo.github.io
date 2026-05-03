@@ -1,51 +1,44 @@
 - title: Invisible Languages
-  subtitle: Language vitality and digital representation
-  group: featured
-  image: images/photo.jpg
-  link: https://theinvisiblelab.org
-  description: Measures all 7,613 human languages on _vitality_ (socio-demographic strength) and _digitality_ (digital footprint across the web, Wikipedia, and AI resources), then computes a representation gap to identify languages in urgent need of attention in the age of LLMs.
+  image: images/invisible-languages.jpg
+  link: https://invisible.info/languages
+  description: Measure, explain, and reduce the _invisibility_ of human language by comparing grassroots vitality and digital representation across 7600+ documented languages.
   tags:
     - languages
     - NLP
     - AI
 
 - title: Invisible Research
-  subtitle: Overlooked academic scholarship
-  image: images/photo.jpg
-  link: https://theinvisiblelab.org
-  description: Uses NLP, network analysis, and bibliometrics to surface scholarship marginalized by language barriers, publication bias, and institutional prestige hierarchies — democratizing knowledge dissemination across global academic ecosystems.
+  image: images/invisible-research.jpg
+  link: https://invisible.info/research
+  description: Scientometric analyses to reveal globally overlooked academic scholarship marginalized by language barriers, publication biases, and institutional prestige hierarchies.
   tags:
     - academia
     - NLP
 
+- title: Invisible Perceptions
+  image: images/invisible-perceptions.jpg
+  link: https://pictopercept.ai
+  description: Investigates and quantifies the invisibility of human perceptions and judgments, revealing biases in visual communication and media representation.
+  tags:
+    - AI
+
 - title: Invisible Books
-  subtitle: Under-represented literary works
-  image: images/photo.jpg
-  link: https://theinvisiblelab.org
+  image: images/background.jpg
+  link: https://invisible.info/books
   description: Illuminates literary gems obscured by mainstream publishing and digital ranking systems, spotlighting authors and works marginalized by linguistic barriers, geographic isolation, or cultural factors.
   tags:
     - culture
 
 - title: Invisible Films
-  subtitle: Diverse cinematic voices
-  image: images/photo.jpg
-  link: https://theinvisiblelab.org
+  image: images/invisible-films.jpg
+  link: https://invisible.info/films
   description: Addresses systemic obscurity faced by cinematic works from under-represented regions, languages, and communities hidden beneath algorithm-driven streaming curation.
   tags:
     - culture
 
-- title: Invisible Music
-  subtitle: Hidden sonic traditions
-  image: images/photo.jpg
-  link: https://theinvisiblelab.org
-  description: Uncovers under-represented musical traditions, artists, and works obscured by commercial music industries and algorithmically curated streaming platforms.
+- title: Invisible Conflicts
+  image: images/sudan.jpg
+  link: https://invisible.info/conflicts
+  description: Maps and analyzes under-reported armed conflicts and humanitarian crises worldwide, revealing patterns of media neglect and geopolitical bias in global awareness.
   tags:
-    - culture
-
-- title: Invisible Bias
-  subtitle: Bias in visual AI
-  image: images/photo.jpg
-  link: https://pictopercept.ai
-  description: Investigates and quantifies biases in how visual information is processed and represented across digital platforms and AI systems.
-  tags:
-    - AI
+    - geopolitics
