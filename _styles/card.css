@@ -17,10 +17,16 @@
   width: 250px;
 }
 
+.card[data-style=large] {
+  width: calc(50% - 40px);
+  max-width: calc(50% - 40px);
+}
+
 .card-image img {
   aspect-ratio: 3/2;
   object-fit: cover;
   width: 100%;
+  filter: grayscale(100%);
 }
 
 .card-text {
