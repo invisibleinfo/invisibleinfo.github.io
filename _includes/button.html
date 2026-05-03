@@ -9,6 +9,10 @@
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip | xml_escape }}"
       {% endif %}
+      {% if include.target %}
+        target="{{ include.target }}"
+        rel="noopener noreferrer"
+      {% endif %}
       data-style="{{ include.style }}"
       {% if include.flip %}
         data-flip
