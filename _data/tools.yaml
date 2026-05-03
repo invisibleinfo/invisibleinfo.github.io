@@ -4,11 +4,9 @@
   description: Open-source web app for embedding LLM-based chatbots directly in surveys and randomized experiments. Supports Qualtrics integration and JSON transcript export. No coding beyond editing a config file required.
   repo: surveychat/surveychat
   tags:
-    - python
     - generative AI
     - survey
     - experiment
-
 
 - title: pictopercept
   image: images/pictopercept.gif
@@ -16,9 +14,8 @@
   description: Web platform for running image-based perception experiments at scale. Designed for researchers studying visual communication, media effects, and human judgment of AI-generated images.
   repo: saurabh-khanna/pictopercept
   tags:
-    - python
-    - research
-    - experiment
+    - computer vision
+    - bias
 
 - title: popcoord
   image: images/popcoord.gif
@@ -26,15 +23,14 @@
   description: Python package to query population counts, age/sex demographics, and density for any given coordinate and radius on Earth. Powered by WorldPop and JRC GHS-POP.
   repo: popcoord/popcoord
   tags:
-    - python
     - geospatial
+    - python
 
 - title: facemeasure
   image: images/facemeasure.gif
-  link: https://github.com/saurabh-khanna/facemeasure
+  link: https://facemeasure.com
   description: Python tool for measuring facial features and expressions in images at scale. Built for computational research on visual representation and perception in media.
   repo: saurabh-khanna/facemeasure
   tags:
-    - python
     - computer vision
     - research
