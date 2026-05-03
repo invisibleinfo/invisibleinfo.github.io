@@ -10,7 +10,7 @@ Project in progress, reach out to [s.khanna@uva.nl](mailto:s.khanna@uva.nl) for 
 
 {%
   include button.html
-    link="https://invisible.info/languages"
+    link="https://langmonitor.invisible.info"
     text="Invisible Language Monitor"
     icon="fa-solid fa-arrow-up-right-from-square"
 %}
