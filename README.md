@@ -1,4 +1,4 @@
-Visit **[invisibleinfo.github.io](https://invisibleinfo.github.io)** 🚀
+Visit **[invisible.info](http://invisible.info)** 🚀
 
 
   ![on-push](../../actions/workflows/on-push.yaml/badge.svg)
