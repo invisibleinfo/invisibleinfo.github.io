@@ -1,1 +1,1 @@
-Sitemap: https://invisibleinfo.github.io/sitemap.xml
+Sitemap: https://invisible.info/sitemap.xml
