@@ -1,5 +1,5 @@
 ---
-name: Marieke van Hoof
+name: Dr Marieke van Hoof
 image: images/marieke_van_hoof.jpeg
 role: postdoc
 affiliation: University of Amsterdam

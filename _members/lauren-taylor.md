@@ -1,5 +1,5 @@
 ---
-name: Lauren Taylor
+name: Dr Lauren Taylor
 image: images/lauren_taylor.jpg
 role: faculty
 affiliation: University of Amsterdam

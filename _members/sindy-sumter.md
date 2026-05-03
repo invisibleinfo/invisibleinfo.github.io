@@ -1,5 +1,5 @@
 ---
-name: Sindy Sumter
+name: Dr Sindy Sumter
 image: images/sindy_sumter.jpeg
 role: faculty
 affiliation: University of Amsterdam

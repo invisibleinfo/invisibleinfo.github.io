@@ -1,5 +1,5 @@
 ---
-name: Irene van Driel
+name: Dr Irene van Driel
 image: images/irene_vd.jpeg
 role: faculty
 affiliation: University of Amsterdam

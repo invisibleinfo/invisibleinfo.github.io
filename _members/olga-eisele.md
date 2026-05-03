@@ -1,5 +1,5 @@
 ---
-name: Olga Eisele
+name: Dr Olga Eisele
 image: images/olga_eisele.jpeg
 role: faculty
 affiliation: University of Amsterdam

@@ -1,5 +1,5 @@
 ---
-name: Wende Tufa
+name: Dr Wende Tufa
 image: images/wende_tufa.jpeg
 role: postdoc
 affiliation: University of Amsterdam

@@ -1,5 +1,5 @@
 ---
-name: Britta Brugman
+name: Dr Britta Brugman
 image: images/britta_brugman.jpg
 role: faculty
 affiliation: University of Amsterdam

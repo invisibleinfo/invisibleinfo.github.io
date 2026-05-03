@@ -1,5 +1,5 @@
 ---
-name: Chei Billedo
+name: Dr Chei Billedo
 image: images/chei_billedo.jpg
 role: faculty
 affiliation: University of Amsterdam

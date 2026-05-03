@@ -1,5 +1,5 @@
 ---
-name: Saurabh Khanna
+name: Dr Saurabh Khanna
 image: images/saurabh_khanna.jpg
 role: principal-investigator
 description: Principal Investigator

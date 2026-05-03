@@ -55,7 +55,7 @@ nav:
   include figure.html
   image="images/collab-pkp.png"
   link="https://pkp.sfu.ca/"
-  caption="Public Knowledge Project"
+  caption="Public Knowledge Project, Stanford University"
   height="80px"
 %}
 {%

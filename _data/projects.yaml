@@ -1,6 +1,6 @@
 - title: Invisible Languages
   image: images/invisible-languages.jpg
-  link: https://invisible.info/languages
+  link: research/languages
   description: Measure, explain, and reduce the invisibility of human language by comparing grassroots vitality and digital representation across 7600+ documented languages.
   tags:
     - NLP
@@ -9,7 +9,7 @@
 
 - title: Invisible Academia
   image: images/invisible-academia.jpg
-  link: https://invisible.info/academia
+  link: research/academia
   description: Scientometric analyses to reveal globally overlooked open academic scholarship marginalized by language barriers, publication biases, and institutional prestige hierarchies.
   tags:
     - scientometrics
@@ -17,7 +17,7 @@
 
 - title: Invisible Perceptions
   image: images/invisible-perceptions.jpg
-  link: https://pictopercept.ai
+  link: research/perceptions
   description: We have designed Pictopercept as an open-source tool to investigate the invisibility of human perceptions and judgments, revealing biases propagated through visual media.
   tags:
     - computer vision
@@ -25,7 +25,7 @@
 
 - title: Invisible Conflicts
   image: images/invisible-conflicts.jpg
-  link: https://invisible.info/conflicts
+  link: research/conflicts
   description: Analyzes under-reported armed conflicts and humanitarian crises worldwide, revealing patterns of media neglect and geopolitical bias in global awareness.
   tags:
     - geospatial analysis
@@ -34,7 +34,7 @@
 
 - title: Invisible Books
   image: images/background.jpg
-  link: https://invisible.info/books
+  link: research/books
   description: Finding literary gems obscured by mainstream publishing and digital ranking systems, spotlighting authors and works marginalized by linguistic barriers, geographic isolation, or cultural factors.
   tags:
     - bibliometrics
@@ -42,7 +42,7 @@
 
 - title: Invisible Films
   image: images/invisible-films.jpg
-  link: https://invisible.info/films
+  link: research/films
   description: Addresses systemic obscurity faced by cinematic works from under-represented regions, languages, and communities hidden beyond algorithmically curated content streams.
   tags:
     - network analysis

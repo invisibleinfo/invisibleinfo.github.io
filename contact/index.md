@@ -7,11 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are based at the Amsterdam School of Communication Research (ASCoR), University of Amsterdam. Feel free to reach out at [s.khanna@uva.nl](mailto:s.khanna@uva.nl).
-
-Nieuwe Achtergracht 166, 1018 WV Amsterdam, The Netherlands
-
-{% include section.html %}
+We are based at the Amsterdam School of Communication Research, University of Amsterdam. You can reach us at [s.khanna@uva.nl](mailto:s.khanna@uva.nl).
 
 <iframe
   src="https://maps.google.com/maps?q=Amsterdam+School+of+Communication+Research&t=&z=16&ie=UTF8&iwloc=&output=embed"

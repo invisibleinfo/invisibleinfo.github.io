@@ -1,5 +1,5 @@
 ---
-name: Corine Meppelink
+name: Dr Corine Meppelink
 image: images/corine_meppelink.jpg
 role: faculty
 affiliation: University of Amsterdam

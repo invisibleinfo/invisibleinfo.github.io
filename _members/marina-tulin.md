@@ -1,5 +1,5 @@
 ---
-name: Marina Tulin
+name: Dr Marina Tulin
 image: images/marina_tulin.jpg
 role: faculty
 affiliation: University of Amsterdam

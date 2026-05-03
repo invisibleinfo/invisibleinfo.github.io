@@ -1,5 +1,5 @@
 ---
-name: Sandra Jacobs
+name: Dr Sandra Jacobs
 image: images/sandra_jacobs.jpg
 role: faculty
 affiliation: University of Amsterdam
