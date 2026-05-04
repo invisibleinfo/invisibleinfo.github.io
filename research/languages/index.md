@@ -6,7 +6,7 @@ title: Invisible Languages
 
 ![Invisible Languages](../../images/invisible_languages_world_map.png)
 
-Thousands of living languages are spoken in homes and communities yet remain absent from digital platforms, search engines, and online knowledge spaces - what we call *invisible languages*. This project follows a multi-phase roadmap to responsibly reduce this digital exclusion: from establishing community governance and consent, to encoding and writing tools, platform integration, findability and preservation, and sustained digital usage.
+More than 7400 languages are spoken in human communities across our planet, yet almost all remain absent from digital platforms, search engines, and online knowledge spaces - rendering them invisible. This project follows a multi-phase roadmap to responsibly reduce this digital exclusion: from establishing community governance and consent, to encoding and writing tools, platform integration, findability and preservation, and sustained digital usage.
 
 {%
   include button.html
