@@ -4,7 +4,9 @@ title: Invisible Languages
 
 # Invisible Languages
 
-Measure, explain, and reduce the invisibility of human language by comparing grassroots vitality and digital representation across 7600+ documented languages. The project combines large-scale data from linguistic databases, Wikipedia, and huggingface to quantify the gap between how many people speak a language and how much it appears online.
+![Invisible Languages](../../images/invisible_languages_world_map.png)
+
+Thousands of living languages are spoken in homes and communities yet remain absent from digital platforms, search engines, and online knowledge spaces - what we call *invisible languages*. This project follows a multi-phase roadmap to responsibly reduce this digital exclusion: from establishing community governance and consent, to encoding and writing tools, platform integration, findability and preservation, and sustained digital usage.
 
 {%
   include button.html
