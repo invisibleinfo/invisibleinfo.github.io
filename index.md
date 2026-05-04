@@ -14,7 +14,7 @@ We are a research group at the Amsterdam School of Communication Research, Unive
 
 <div id="owid-offline-map" style="width:100%;aspect-ratio:2/1;max-height:560px;margin-top:1.5rem;"></div>
 <p style="font-size:0.72rem;color:var(--gray);margin:0.3rem 0 0;text-align:center;letter-spacing:0.01em;">
-  Share of human population not connected to the internet. Source: Our World in Data 2026.
+  Share of human population NOT connected to the internet. Source: Our World in Data 2026.
 </p>
 
 <script>

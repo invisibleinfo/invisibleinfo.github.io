@@ -23,7 +23,7 @@
   description: Python package to query population counts, age/sex demographics, and density for any given coordinate and radius on Earth. Powered by WorldPop and JRC GHS-POP.
   repo: popcoord/popcoord
   tags:
-    - geospatial
+    - geospatial analysis
     - python
 
 - title: facemeasure
@@ -33,4 +33,4 @@
   repo: saurabh-khanna/facemeasure
   tags:
     - computer vision
-    - research
+    - bias

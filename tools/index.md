@@ -9,7 +9,7 @@ nav:
 
 In the spirit of open science, we maintain open-source tools for computational research on information, language, and perception. These tools span packages and applications for embedding conversation AI tools in surveys and experiments, image-based perception studies, facial feature measurement, and geospatial population analysis.
 
-{% include tags.html tags="python, computer vision, generative AI, geospatial, survey, experiment, bias, research" %}
+{% include tags.html tags="python, computer vision, generative AI, geospatial analysis, survey, experiment, bias" %}
 
 {% include search-info.html %}
 

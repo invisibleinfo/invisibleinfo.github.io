@@ -17,3 +17,4 @@ _cite/.cache/
 
 # local data-refresh script (run manually to update homepage map)
 _scripts/update-map-data.py
+_cite/.cache/cache.db
