@@ -11,3 +11,9 @@ package.json
 package-lock.json
 yarn.lock
 node_modules
+
+# citation pipeline cache
+_cite/.cache/
+
+# local data-refresh script (run manually to update homepage map)
+_scripts/update-map-data.py
