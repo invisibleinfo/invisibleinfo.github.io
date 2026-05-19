@@ -22,7 +22,8 @@ nav:
 
 ## Postdocs
 
-{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include portrait.html lookup="wende-tufa" %}
+{% include portrait.html lookup="marieke-van-hoof" %}
 
 {% include section.html %}
 
