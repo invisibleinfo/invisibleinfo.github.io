@@ -42,7 +42,6 @@ nav:
   caption="Institute for Logic, Language and Computation"
   height="80px"
 %}
-{% comment %}
 {%
   include figure.html
   image="images/collab-pembroke.png"
@@ -50,7 +49,6 @@ nav:
   caption="Pembroke College, University of Oxford"
   height="80px"
 %}
-{% endcomment %}
 {%
   include figure.html
   image="images/collab-pkp.png"
