@@ -10,7 +10,7 @@ More than 7400 languages are spoken in human communities across our planet, yet 
 
 {%
   include button.html
-    link="https://langmonitor.invisible.info"
+    link="https://language.invisible.info"
     text="Invisible Language Monitor"
     icon="fa-solid fa-arrow-up-right-from-square"
     target="_blank"
