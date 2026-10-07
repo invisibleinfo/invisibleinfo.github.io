@@ -8,4 +8,12 @@ Why do some conflicts dominate global headlines while others, often deadlier, re
 
 This project is in progress supported by a VENI grant from the Dutch Research Council (NWO), further details can be requested at [s.khanna@uva.nl](mailto:s.khanna@uva.nl).
 
+{%
+  include button.html
+    link="https://conflict.invisible.info"
+    text="Invisible Conflict Monitor"
+    icon="fa-solid fa-arrow-up-right-from-square"
+    target="_blank"
+%}
+
 ![](../../images/conflicts.png)
